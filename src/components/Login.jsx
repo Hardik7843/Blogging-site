@@ -22,6 +22,7 @@ function Login() {
                 navigate("/")
             }
         } catch (error) {
+            console.log("Error after auth.login from components/Login.jsx 25 ", error.message)
             setError(error.message)
         }
     }
