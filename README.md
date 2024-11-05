@@ -30,3 +30,20 @@ Lastly, create storage bucket in storage sections to store images.
 ## 4. Now rest of the code should work just fine after step 3. 
 Before Running the Code Plase create an platform or running server via appwrite console for testing it. 
 ![alt text](image-1.png)
+
+Now, Wait for some time to get the platform ready for serving 
+requests. (minimum 5 minutes). 
+
+## 5. Now run the project. 
+with either or command from below.
+
+```
+npm run dev
+```
+
+OR 
+
+```
+npm start 
+```
+
